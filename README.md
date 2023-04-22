@@ -10,8 +10,7 @@ I had a hard time creating creating the GUI and also I had an error for the long
 
 ### How to install and run the program?
 Clone the project from GitHub: git clone https://github.com/Breezlol/ATM.git. 
-Open the project in your Java IDE. 
-Run the project. 
+Download the .jar file and open it.  
 The application should open in a new window. 
 
 #### How to use it?
