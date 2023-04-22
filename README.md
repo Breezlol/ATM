@@ -12,6 +12,7 @@ I had a hard time creating creating the GUI and also I had an error for the long
 Clone the project from GitHub: git clone https://github.com/Breezlol/ATM.git. 
 Download the .jar file and open it.  
 The application should open in a new window. 
+Ive added some sample IDs and PINs for testing ID:2345 PIN:1234;  ID:1234 PIN:5678; ID:6789 PIN:1256;
 
 #### How to use it?
 Select your language from the language selection screen. 
