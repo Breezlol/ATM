@@ -5,16 +5,16 @@ The application simulates an ATM machine. The program provides a GUI that allows
 ## Why you used the technologies you used? 
 I used Java Swing and AWT because I think their design looks best. The CardLayout class is used to create a GUI with a few panels. I also used Locale and ResourceBundle classes to create the multiple language support. 
 
-###Challenges faced
+### Challenges faced
 I had a hard time creating creating the GUI and also I had an error for the longest time regarding the user authentication. Also for some reason the program was crashing when the user selects Bulgarian, but I managed to fix it after adding a variable I forgot to mention in the messages_bg_BG.properties file. 
 
-###How to install and run the program?
+### How to install and run the program?
 Clone the project from GitHub: git clone https://github.com/Breezlol/ATM.git
 Open the project in your Java IDE
 Run the project
 The application should open in a new window
 
-####How to use it?
+#### How to use it?
 Select your language from the language selection screen
 Enter your user ID and PIN on the login screen
 After logging in you will be taken to the main menu
